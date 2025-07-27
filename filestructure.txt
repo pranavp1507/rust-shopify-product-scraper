@@ -1,6 +1,8 @@
 |-- .gitignore
 |-- Cargo.lock
 |-- Cargo.toml
+|-- LICENSE
+|-- README.md
 |-- products_2025-07-27.csv
 |-- src
     |-- main.rs

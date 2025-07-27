@@ -911,7 +911,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust_shopify_scraper"
+name = "rust_shopify_product_scraper"
 version = "0.1.0"
 dependencies = [
  "chrono",
